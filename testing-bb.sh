@@ -37,12 +37,12 @@ echo -e "${GREEN}This is made by ----------------${ENDCOLOR}${RED}CYBIECY${ENDCO
 echo -e "${GREEN}########################################################################################################################${ENDCOLOR}"
 
 echo -e "${YELLOW}_________          _______${ENDCOLOR}"                                                      
-echo -e "${YELLOW}\__   __/|\     /|(  ____ \${ENDCOLOR}"                                                      
+echo -e "${YELLOW}\__   __/|\     /|(  ____ \ ${ENDCOLOR}"                                                      
 echo -e "   ${YELLOW}) (   | )   ( || (    \/${ENDCOLOR}"                                                      
 echo -e "   ${YELLOW}| |   | (___) || (__${ENDCOLOR}"                                                          
 echo -e "   ${YELLOW}| |   |  ___  ||  __)${ENDCOLOR}"                                                         
 echo -e "   ${YELLOW}| |   | (   ) || (${ENDCOLOR}"                                                            
-echo -e "   ${YELLOW}| |   | )   ( || (____/\${ENDCOLOR}"                                                      
+echo -e "   ${YELLOW}| |   | )   ( || (____/\ ${ENDCOLOR}"                                                      
 echo -e "   ${YELLOW})_(   |/     \|(_______/${ENDCOLOR}"                                                      
                                                                                  
 echo -e " ${YELLOW}______            _______  ______   _______           _       _________         ${ENDCOLOR}"
@@ -55,12 +55,12 @@ echo -e "${YELLOW}| )___) )| (___) || (___) || )___) )| (___) || (___) || )  \  
 echo -e "${YELLOW}|/ \___/ (_______)(_______)|/ \___/ (_______)(_______)|/    )_)   )_(      \_/${ENDCOLOR}"   
                                                                                  
 echo -e " ${YELLOW}_______  _______  _______  _       ${ENDCOLOR}"                                             
-echo -e "${YELLOW}(  ____ )(  ___  )(  ____ \| \    /\${ENDCOLOR}"                                             
+echo -e "${YELLOW}(  ____ )(  ___  )(  ____ \| \    /\ ${ENDCOLOR}"                                             
 echo -e "${YELLOW}| (    )|| (   ) || (    \/|  \  / /${ENDCOLOR}"                                             
 echo -e "${YELLOW}| (____)|| (___) || |      |  (_/ /${ENDCOLOR}"                                              
 echo -e "${YELLOW}|  _____)|  ___  || |      |   _ (${ENDCOLOR}"                                               
-echo -e "${YELLOW}| (      | (   ) || |      |  ( \ \${ENDCOLOR}"                                              
-echo -e "${YELLOW}| )      | )   ( || (____/\|  /  \ \${ENDCOLOR}"                                             
+echo -e "${YELLOW}| (      | (   ) || |      |  ( \ \ ${ENDCOLOR}"                                              
+echo -e "${YELLOW}| )      | )   ( || (____/\|  /  \ \ ${ENDCOLOR}"                                             
 echo -e "${YELLOW}|/       |/     \|(_______/|_/    \/${ENDCOLOR}"             
 
 echo -e "${GREEN}########################################################################################################################${ENDCOLOR}"
